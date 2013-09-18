@@ -9,7 +9,7 @@
     <file path="/urls.py" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379417988991" ignored="false" />
     <file path="/settings.py" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379417690862" ignored="false" />
     <file path="/home.html" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379418061145" ignored="false" />
-    <file path="/Dummy.txt" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379472030495" ignored="false" />
+    <file path="/Dummy.txt" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379472387556" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,7 @@
       <file leaf-file-name="iuppiter.iml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/iuppiter.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="49" selection-start="388" selection-end="388" vertical-scroll-proportion="0.23913044">
+            <state line="24" column="26" selection-start="952" selection-end="952" vertical-scroll-proportion="0.6376812">
               <folding />
             </state>
           </provider>
@@ -676,7 +676,11 @@
       <created>1379472324682</created>
       <updated>1379472324682</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start">
+      <created>1379472389681</created>
+      <updated>1379472389681</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -901,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iuppiter.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="49" selection-start="388" selection-end="388" vertical-scroll-proportion="0.23913044">
+        <state line="24" column="26" selection-start="952" selection-end="952" vertical-scroll-proportion="0.6376812">
           <folding />
         </state>
       </provider>
