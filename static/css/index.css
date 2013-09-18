@@ -1,0 +1,30 @@
+body{
+    background: url("../img/bg.png") ;
+}
+.top_index{
+    margin: 10px 16px ;
+}
+.top_left{
+    width:6px;
+    height:42px;
+    background: url("../img/top_left.png") no-repeat;
+    float:left;
+}
+.top_mid{
+    height:42px;
+    width:98%;
+    background: url("../img/top_mid.png") repeat-x;
+    float:left;
+}
+.top_right{
+    width:6px;
+    height:42px;
+    background: url("../img/top_left.png") no-repeat;
+    float:left;
+    -moz-transform:scaleX(-1);
+    -webkit-transform:scaleX(-1);
+    -o-transform:scaleX(-1);
+    transform:scaleX(-1);
+    /*IE*/
+    filter:FlipH;
+}
