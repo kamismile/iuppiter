@@ -11,9 +11,9 @@
     <file path="/urls.py" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379417988991" ignored="false" />
     <file path="/settings.py" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379417690862" ignored="false" />
     <file path="/home.html" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379418061145" ignored="false" />
-    <file path="/Dummy.txt" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379491929671" ignored="false" />
-    <file path="/index.html" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379488207572" ignored="false" />
-    <file path="/index.css" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379493850344" ignored="false" />
+    <file path="/Dummy.txt" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379494008218" ignored="false" />
+    <file path="/index.html" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379494408012" ignored="false" />
+    <file path="/index.css" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379494555949" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,19 +74,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="64" selection-start="435" selection-end="435" vertical-scroll-proportion="-6.387097">
+            <state line="1" column="24" selection-start="134" selection-end="134" vertical-scroll-proportion="0.027295286">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="91" selection-start="237" selection-end="237" vertical-scroll-proportion="0.31058824">
+            <state line="35" column="20" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -223,6 +223,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iuppiter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iuppiter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -692,7 +710,11 @@
       <created>1379491933515</created>
       <updated>1379491933515</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="start">
+      <created>1379494011874</created>
+      <updated>1379494011874</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -889,16 +911,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="64" selection-start="435" selection-end="435" vertical-scroll-proportion="-6.387097">
+        <state line="35" column="20" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="91" selection-start="237" selection-end="237" vertical-scroll-proportion="0.31058824">
+        <state line="1" column="24" selection-start="134" selection-end="134" vertical-scroll-proportion="0.027295286">
           <folding />
         </state>
       </provider>

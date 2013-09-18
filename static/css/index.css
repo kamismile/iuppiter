@@ -29,3 +29,9 @@ body{
     /*IE*/
     /*filter:FlipH;*/
 /*}*/
+/*.mid_body{*/
+    /*margin: 10% 5px 0 70%;*/
+/*}*/
+.mid_left{
+    background-color: #e5e5e5;
+}
