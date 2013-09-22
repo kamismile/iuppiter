@@ -2,7 +2,7 @@ body{
     background: url("../img/bg.png") ;
 }
 .top_index{
-    margin: 10px 5px 0 70%;
+    margin: 30px 5px auto 366px;
 }
 /*.top_left{*/
     /*width:6px;*/
@@ -30,16 +30,30 @@ body{
     /*filter:FlipH;*/
 /*}*/
 .mid_body{
-    position: relative;
-    /*margin: 30% 5px 0 0;*/
+    margin: 80px 10px auto auto;
+    background-color: #e5e5e5;
+    width: 90%;
+    height: 600px;
+    float:right;
 }
 .mid_left{
     margin: 10px;
-    background-color: #e5e5e5;
     left: 150px;
     top: 230px;
     width:284px;
-    height:602px;
+    height:302px;
     position: relative;
     float:left;
+}
+.mid_left hr{
+    position: relative;
+    top: 97%;
+}
+.mid_hr{
+    color: #e5e5e5;
+    position: absolute;
+    width: 2px;
+    top: 232px;
+    height: 302px;
+    left: 39%;
 }
