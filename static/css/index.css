@@ -15,7 +15,7 @@ body{
     width:90%;
     background: url("../img/top_mid.png") repeat-x;
     border-radius: 8px;
-    float:left;
+    float:right;
 }
 /*.top_right{*/
     /*width:6px;*/
@@ -29,9 +29,17 @@ body{
     /*IE*/
     /*filter:FlipH;*/
 /*}*/
-/*.mid_body{*/
-    /*margin: 10% 5px 0 70%;*/
-/*}*/
+.mid_body{
+    position: relative;
+    /*margin: 30% 5px 0 0;*/
+}
 .mid_left{
+    margin: 10px;
     background-color: #e5e5e5;
+    left: 150px;
+    top: 230px;
+    width:284px;
+    height:602px;
+    position: relative;
+    float:left;
 }
