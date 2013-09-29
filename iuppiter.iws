@@ -9,7 +9,7 @@
     <file path="/urls.py" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379417988991" ignored="false" />
     <file path="/settings.py" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379417690862" ignored="false" />
     <file path="/home.html" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379418061145" ignored="false" />
-    <file path="/Dummy.txt" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1380457214602" ignored="false" />
+    <file path="/Dummy.txt" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1380457269484" ignored="false" />
     <file path="/index.html" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379494408012" ignored="false" />
     <file path="/index.css" changelist="245105c5-990b-4071-9781-8bb8e3518314" time="1379494555949" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,10 +72,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="53" selection-start="435" selection-end="435" vertical-scroll-proportion="0.4697802">
+            <state line="9" column="53" selection-start="435" selection-end="435" vertical-scroll-proportion="-6.107143">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iuppiter.iws" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iuppiter.iws">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.30079156">
               <folding />
             </state>
           </provider>
@@ -140,6 +149,7 @@
         <option value="$PROJECT_DIR$/iuppiter/settings.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/css/index.css" />
+        <option value="$PROJECT_DIR$/iuppiter.iws" />
       </list>
     </option>
   </component>
@@ -589,7 +599,11 @@
       <created>1380457221168</created>
       <updated>1380457221168</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="start">
+      <created>1380457273356</created>
+      <updated>1380457273356</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -713,13 +727,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iuppiter/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python27/Lib/site-packages/django/contrib/admindocs/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -795,7 +802,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="53" selection-start="435" selection-end="435" vertical-scroll-proportion="0.4697802">
+        <state line="9" column="53" selection-start="435" selection-end="435" vertical-scroll-proportion="-6.107143">
           <folding />
         </state>
       </provider>
@@ -803,6 +810,13 @@
     <entry file="file://$PROJECT_DIR$/iuppiter/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iuppiter.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.30079156">
           <folding />
         </state>
       </provider>
