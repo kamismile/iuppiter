@@ -1,5 +1,5 @@
 body{
-    background: url("../img/bg.png") ;
+    background: url("../../img/bg.png") ;
 }
 
 .top_index{
@@ -18,7 +18,7 @@ body{
     vertical-align:middle;
     height:42px;
     width:73%;
-    background: url("../img/top_mid.png") repeat-x;
+    background: url("../../img/top_mid.png") repeat-x;
     border-radius: 8px;
     float:right;
 }
